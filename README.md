@@ -1,12 +1,12 @@
 # Projeto chatbot | Java 🤖
 
-## Objetivo:
+## Objetivo: 🔍
 O principal objetivo de desenvolver este chatbot foi para colocar em prática todos os conhecimentos que diz respeito à lógica de programação, incluindo: entrada, processamento, saída de dados, condicionais, loops, vetores, métodos, etc. 
 
-## Para que serve o chatbot?
+## Para que serve o chatbot? ⚙
 É uma demonstração de como seria um atendimento via chat, sem implementações modernas, somente com a lógica de programação aplicada a um projeto real, dinâmico e atraente.
 
-## Como faço para testá-lo?
+## Como faço para testá-lo? 💻
 Você pode utilizá-lo em seu VS Code com uma extensão que suporte Java, através da sua execução no output. A saída do menu do projeto será esta: 
 
 ![image](https://github.com/user-attachments/assets/117ddeef-267b-4f82-8e32-e0df6b8390b7)
@@ -31,7 +31,7 @@ Exemplo de uso: Setor de Registro 📜
 
 - Aqui retorna ao menu, pois o usuário falou "não".
 
-## Conclusão:
+## Conclusão: 🎉
 Acredito que o maior aprendizado deste projeto foi a experiência adquirida na programação, um fator essencial para o meu desenvolvimento. Foi muito gratificante trabalhar nele, cada etapa contribuiu significativamente para o meu crescimento pessoal e profissional.
 
 
