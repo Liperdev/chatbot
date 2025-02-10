@@ -26,7 +26,7 @@ Exemplo de uso: Setor de Registro 📜
 
 ![image](https://github.com/user-attachments/assets/3e4d0809-6022-4900-b612-410fa6b1b300)
 - Nesta parte, vão aparecer outras pessoas registradas, isso acontece devido algumas pessoas naturalmente foram registradas antes, para fins de simulação.
-- 
+
 ![image](https://github.com/user-attachments/assets/227734fe-d57b-4d43-82d7-5010d9d26516)
 
 - Aqui retorna ao menu, pois o usuário falou "não".
