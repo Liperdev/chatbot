@@ -15,13 +15,20 @@ Você pode utilizá-lo em seu VS Code com uma extensão que suporte Java, atrav�
 - Todos os setores foram desenvolvidos para simular um ambiente real;
 
 Exemplo de uso: Setor de Registro 📜
+
 ![image](https://github.com/user-attachments/assets/64113d00-0f23-4dc7-95ed-6a69e5901fbf)
+
 ![image](https://github.com/user-attachments/assets/5a17c527-5d0a-498c-8dc5-11be06b7687b)
+
 ![image](https://github.com/user-attachments/assets/f32da0e0-f7ba-4d23-8f02-4b83f032e38c)
+
 ![image](https://github.com/user-attachments/assets/1e1f03d5-dab3-4743-9607-7bee30fb847d)
+
 ![image](https://github.com/user-attachments/assets/3e4d0809-6022-4900-b612-410fa6b1b300)
 - Nesta parte, vão aparecer outras pessoas registradas, isso acontece devido algumas pessoas naturalmente foram registradas antes, para fins de simulação.
+- 
 ![image](https://github.com/user-attachments/assets/227734fe-d57b-4d43-82d7-5010d9d26516)
+
 - Aqui retorna ao menu, pois o usuário falou "não".
 
 ## Conclusão:
