@@ -1,4 +1,4 @@
-# Projeto chatbot | Java 🤖
+# Projeto chatbot - Java 🤖
 
 ## Objetivo: 🔍
 O principal objetivo de desenvolver este chatbot foi para colocar em prática todos os conhecimentos que diz respeito à lógica de programação, incluindo: entrada, processamento, saída de dados, condicionais, loops, vetores, métodos, etc. 
